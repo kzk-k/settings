@@ -1,6 +1,9 @@
 # settings
-prettierrc<br>
+
+## prettierrc<br>
+
 https://ma-vericks.com/vscode-prettier/<br>
+
 ```
 command + ,
 WorkSpaceタブを選択
